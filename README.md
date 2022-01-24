@@ -13,7 +13,7 @@
 
 ## Language Model
 ---
-- 한국어 선학습 언어모델 [[link](language model/korean_pretrained_lm.md)]
+- 한국어 선학습 언어모델 [[link](language_model/korean_pretrained_lm.md)]
 
 
 ## 📧 Contact
