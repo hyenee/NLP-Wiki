@@ -7,13 +7,13 @@
 
 
 ## 🔢 Index
-- [Language Model](#-language-model)
+- [Language Model](#language-model)
 - [📧 Contact](#-contact)
 
 
 ## Language Model
 ---
-- 한국어 선학습 언어모델 [[link](Language Model/Korean_Pretrained_LM.md)]
+- 한국어 선학습 언어모델 [[link](language model/korean_pretrained_lm.md)]
 
 
 ## 📧 Contact
