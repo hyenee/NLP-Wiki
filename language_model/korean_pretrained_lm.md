@@ -1,5 +1,16 @@
 # 🗒️ 한국어 선학습 언어모델(Korean Pre-trained Language Model)
 
+*✔️ Last Update : 2022.02.05*
+
+
+## 🔢 Index
+- [🗒️ 한국어 선학습 언어모델(Korean Pre-trained Language Model)](#️-한국어-선학습-언어모델korean-pre-trained-language-model)
+  - [🔢 Index](#-index)
+  - [1️⃣ Transformer Encoder 기반](#1️⃣-transformer-encoder-기반)
+  - [2️⃣ Transformer Decoder 기반](#2️⃣-transformer-decoder-기반)
+  - [3️⃣ Transformer Encoder-Decoder 기반](#3️⃣-transformer-encoder-decoder-기반)
+  - [4️⃣ 기타](#4️⃣-기타)
+
 
 ## 1️⃣ Transformer Encoder 기반
 
@@ -15,7 +26,7 @@
 | [KB-ALBERT](https://github.com/KB-AI-Research/KB-ALBERT) | 한국어 경제 및 금융 도메인 특화 ALBERT 모델 | 일반 도메인(위키, 뉴스 등) + 금융 도메인(경제 및 금융 특화 뉴스, 리포트 등) 총 100GB (KB-ALBERT-CHAR-v2 기준) | 9,607 | 음절단위 한글 토크나이저 ( BERTWordPieceTokenizer에서 음절만 있는 형태와 비슷하며 띄어쓰기를 제외한 음절 앞에 “##” prefix 추가) |
 | [KoELECTRA](https://github.com/monologg/KoELECTRA) | KoELECTRA-Base, KoELECTRA-Small 제공 | v1, v2 : 뉴스, 위키, 나무위키 등 34GB / v3 : 모두의 말뭉치 신문, 문어, 구어, 메신저, 웹 약 20GB 추가 사용 | v1, v2 : 32,200 / v3 : 35000 | WordPiece |
 | [KcELECTRA](https://github.com/Beomi/KcELECTRA) | tokenizer는 huggingface의 Tokenizers 라이브러리 활용 | 뉴스 댓글 및 대댓글(2019.01.01 ~ 2021.03.09) 약 17.3GB (1억 8천만 개 이상의 문장) | 30,000 | WordPiece |
-
+| [Dialog-KoELECTRA](https://github.com/SKplanet/Dialog-KoELECTRA) | ELECTRA기반 한국어 대화체 언어모델 | 대화체(AIHub 한국어 대화 말뭉치, 모두의말뭉치 구어 , 챗봇 데이터, KcBERT) 7GB + 문어체(모두의말뭉치 신문, 나무위키) 15GB | 40,000 | 형태소분석 기반 |
 
 
 ## 2️⃣ Transformer Decoder 기반
