@@ -26,6 +26,7 @@ DL, NLP 연구 관련 유용한 github을 정리합니다.
 
 
 ## Crawler
+`크롤러`
 | Name                                                                          | Description                                                                     |
 |-------------------------------------------------------------------------------|---------------------------------------------------------------------------------|
 | [Web_Crawler](https://github.com/BitnaKeum/Web_Crawler)                       | 나무위키, 위키피디아, 다음블로그, 티스토리, 유튜브, 네이트판 크롤러                 |
@@ -35,6 +36,7 @@ DL, NLP 연구 관련 유용한 github을 정리합니다.
 
 
 ## Dataset
+`NLP 관련 데이터셋`
 | Name                                                                                  | Description                                                       |
 |---------------------------------------------------------------------------------------|-------------------------------------------------------------------|
 | [slot_filling_and_intent_detection_of_SLU](https://github.com/sz128/slot_filling_and_intent_detection_of_SLU) | intent/slot 데이터셋 정리 (ATIS, SNIPS, Facebook’s multilingual dataset, MIT_Restaurant_Movie_corpus, E-commerce Shopping Assistant (ECSA) from Alibaba, CoNLL-2003 NER) |
@@ -48,6 +50,7 @@ DL, NLP 연구 관련 유용한 github을 정리합니다.
 
 
 ## Dataset(Ko)
+`한국어 데이터셋`
 | Name                                                                            | Description                           |
 |---------------------------------------------------------------------------------|---------------------------------------|
 | [AwesomeKorean_Data](https://github.com/songys/AwesomeKorean_Data)              | 한국어 데이터셋 목록                   |
@@ -64,6 +67,7 @@ DL, NLP 연구 관련 유용한 github을 정리합니다.
 
 
 ## Generation
+`Text Generation/Data Augmentation 관련 연구 정리`
 | Name                                                                                    | Description                                                    |
 |-----------------------------------------------------------------------------------------|----------------------------------------------------------------|
 | [nlpaug](https://github.com/makcedward/nlpaug)                                          | NLP 관련 augmentation 패키지                                    |
@@ -86,6 +90,7 @@ DL, NLP 연구 관련 유용한 github을 정리합니다.
 
 
 ## Infra
+`딥러닝 환경 구축`
 | Name                                                             | Description                                                      |
 |------------------------------------------------------------------|------------------------------------------------------------------|
 | [gpustat](https://github.com/wookayin/gpustat)                   | GPU 모니터링 툴                                                   |
@@ -95,6 +100,7 @@ DL, NLP 연구 관련 유용한 github을 정리합니다.
 
 
 ## Korean NLP
+`한국어 NLP 프로젝트`
 | Name                                                                                                | Description                                                 |
 |-----------------------------------------------------------------------------------------------------|-------------------------------------------------------------|
 | [KoEDA](https://github.com/toriving/KoEDA)                                                          | 한국어 EDA (Easy Data Augmentation) 모델                     |
@@ -123,6 +129,7 @@ DL, NLP 연구 관련 유용한 github을 정리합니다.
 
 
 ## Latex / Notion / README
+`Latex, Notion, README에 사용하기 좋은 템플릿 정리`
 | Name                                                                                                    | Description                                             |
 |---------------------------------------------------------------------------------------------------------|---------------------------------------------------------|
 | [Notion-to-GitHub-Pages](https://github.com/uoneway/notion-to-github-pages)                             | 노션 페이지를 Github Pages 블로그에 맞게 업로드하는 shell script |
@@ -138,6 +145,7 @@ DL, NLP 연구 관련 유용한 github을 정리합니다.
 
 
 ## Libraries / Toolkits
+`활용하기 좋은 패키지/툴킷`
 | Name                                                                                | Description                                                             |
 |--------------------------------------------------------------------------------------|------------------------------------------------------------------------|
 | [lightning-transformers](https://github.com/PyTorchLightning/lightning-transformers) | Transformers SOTA 모델 가져다 쓸 수 있는 패키지                          |
@@ -166,6 +174,7 @@ DL, NLP 연구 관련 유용한 github을 정리합니다.
 
 
 ## Metric
+`NLP metric`
 | Name                                                                     | Description                                                                     |
 |--------------------------------------------------------------------------|---------------------------------------------------------------------------------|
 | [NLPMetrics](https://github.com/gcunhase/NLPMetrics)                     | NLP 평가 매트릭(BLEU, GLEU, WER, METEOR, TER, ROUGE, CIDEr)                      |
@@ -184,6 +193,7 @@ DL, NLP 연구 관련 유용한 github을 정리합니다.
 
 
 ## Model
+`관심있는 연구들 정리`
 | Name                                                                          | Description                                                                     |
 |-------------------------------------------------------------------------------|---------------------------------------------------------------------------------|
 | [Informer2020](https://github.com/zhouhaoyi/Informer2020)                     | AAAI 2021 Best Paper “Informer: Beyond Efficient Transformer for Long Sequence Time-Series Forecasting” 논문 구현 |
@@ -213,6 +223,7 @@ DL, NLP 연구 관련 유용한 github을 정리합니다.
 
 
 ## Survey
+`paper/dataset 등 서베이 논문`
 | Name                                                                                                | Description                                              |
 |-----------------------------------------------------------------------------------------------------|----------------------------------------------------------|
 | [Best_AI_paper_2020](https://github.com/louisfb01/Best_AI_paper_2020)                               | 2020년도 best paper 목록                                 |
@@ -241,6 +252,7 @@ DL, NLP 연구 관련 유용한 github을 정리합니다.
 
 
 ## Streamlit
+`streamlit 관련 참고 코드`
 | Name                                                                             | Description                                                              |
 |----------------------------------------------------------------------------------|--------------------------------------------------------------------------|
 | [streamlit](https://github.com/streamlit/streamlit)                              | streamlit github                                                         |
@@ -254,6 +266,7 @@ DL, NLP 연구 관련 유용한 github을 정리합니다.
 
 
 ## Subtask
+`NLP subtask 구현`
 | Name                                                                        | Description                      |
 |-----------------------------------------------------------------------------|----------------------------------|
 | [nlp_classification](https://github.com/seopbo/nlp_classification)          | NLP Classification 관련 논문 구현 |
@@ -263,6 +276,7 @@ DL, NLP 연구 관련 유용한 github을 정리합니다.
 
 
 ## Tutorials
+`참고할만한 NLP 튜토리얼`
 | Name                                                                                  | Description                                                         |
 |---------------------------------------------------------------------------------------|---------------------------------------------------------------------|
 | [Advanced_Models](https://github.com/jk96491/Advanced_Models)                         | 여러 신경망 모델 구현(DCGAN, CGAN, SA-GAN ,GAN, Resnet, VAE, Multi-Head Attention, GPT-2)             |
@@ -284,6 +298,7 @@ DL, NLP 연구 관련 유용한 github을 정리합니다.
 
 
 ## Wiki
+`ML/DL/NLP 관련 지식`
 | Name                                                                                    | Description                                                             |
 |-----------------------------------------------------------------------------------------|-------------------------------------------------------------------------|
 | [모두의 MLOps](https://mlops-for-all.github.io/)                                        | MLOps 관련 정리                                                          |
